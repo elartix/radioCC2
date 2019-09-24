@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">OK</string>
+    <string name="no">Cancel</string>
+    <string name="radio_prompt">Prompt</string>
+    <string name="radio_info_title">All station info</string>
+    <string name="radio_info_del">Delete station</string>
+    <string name="radio_info_add">Add Station</string>
+    <string name="radio_info_edit">Edit station info</string>
+    <string name="radio_info_addsuccess">Add station success！</string>
+    <string name="radio_info_editsuccess">Update station success！</string>
+    <string name="radio_info_nameused">Name has been used！</string>
+    <string name="radio_info_exist">Can not add again！</string>
+    <string name="radio_info_namenull">Name is null,please enter again！</string>
+    <string name="radio_delinfo_title">Delete all stations ?</string>
+    <string name="radio_set">Setting</string>
+    <string name="radio_set_amsens">AM Sens</string>
+    <string name="radio_set_fmsens">FM Sens</string>
+    <string name="radio_set_handsens">Manual Sens</string>
+    <string name="radio_set_autosens">Auto Sens</string>
+    <string name="radio_set_default">Default</string>
+    <string name="radio_set_area">Radio Area</string>
+    <string name="radio_set_area_usa">U.S.A 1</string>
+    <string name="radio_set_area_latin">U.S.A 2</string>
+    <string name="radio_set_area_europe">Europe</string>
+    <string name="radio_set_area_oirt">Russia</string>
+    <string name="radio_set_area_russa">Russia</string>
+    <string name="radio_set_area_japan">Japan</string>
+    <string name="radio_set_rds_on">RDS ON</string>
+    <string name="radio_set_rds_off">RDS OFF</string>
+    <string name="radio_freq_err">Sorry, the frequency is not normal!</string>
+    <string name="radio_freq_name_default">Playing Now</string>
+    <string name="radio_info_city">City</string>
+    <string name="radio_set_city">Set City</string>
+</resources>
