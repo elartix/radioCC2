@@ -398,6 +398,7 @@
     <public type="string" name="error_param" id="0x7f07004b" />
     <public type="string" name="str_kaolamenu" id="0x7f07004c" />
     <public type="string" name="radio_set_freq" id="0x7f07004d" />
+    <public type="string" name="radio_scaning" id="0x7f07004e" />
     <public type="style" name="AppTheme" id="0x7f080000" />
     <public type="style" name="ActRadio" id="0x7f080001" />
     <public type="style" name="Dialog" id="0x7f080002" />

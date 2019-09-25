@@ -1,0 +1,11 @@
+<Root>
+	<Page id="Page_EditInfo" drawable="radio_bk_editinfo" size="529,296">
+		<Text id="EditInfo_Txt_Title" rect="16,7,497,43" h="28" color="#ffffff"/>
+		<Text id="EditInfo_Txt_Freq" rect="161,60,208,78" h="64" color="#000000"/>
+		<EditText id="EditInfo_Edit_Name" rect="44,153,441,54"  h="28" color="#000000" drawable="radio_editinfo_name"/>
+		<Button id="EditInfo_Btn_FreqM" longclick="1" rect="63,72,67,66" drawable="radio_editinfo_freqm"/>
+		<Button id="EditInfo_Btn_FreqP" longclick="1" rect="403,72,67,66" drawable="radio_editinfo_freqp"/>
+		<Button id="EditInfo_Btn_Ok" rect="42,232,193,51" text="ok" h="28" color="#ffffff" drawable="radio_editinfo_btn"/>
+		<Button id="EditInfo_Btn_Cancel" rect="294,232,193,51" text="cancel" h="28" color="#ffffff" drawable="radio_editinfo_btn"/>
+	</Page>
+</Root>

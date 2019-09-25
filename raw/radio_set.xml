@@ -1,0 +1,40 @@
+<Root>
+	<Page id="Page_Set" drawable="bk_set">
+		<LinearLayout pos="0,82" gravity="match_parent,wrap_content" paraStr="vertical">
+		    <View id="Set_Group_DefaultSet" gravity="match_parent,76">
+		        <Text rect="49,4,700,74" id="Set_Txt_Title" paraStr="Left" h="28" text="radio_set" color="#ffffff"/>  
+				<Button id="Set_Btn_Default" drawable="radio_set_default" rect="637,3,303,70">
+				    <Text h="28" rect="640,9,296,56" text="radio_set_default" color="#ff0000" paraStr="TruncateAtMarQuee"/>
+				</Button>
+		    </View>
+			<View id="Set_Group_AmSens" gravity="match_parent,76">
+				<Text id="Set_Txt_AmSens" paraStr="Left" h="28" rect="49,4,725,74" text="radio_set_amsens" color="#ffffff"/>
+				<Text id="Set_Txt_AmSensVal" h="28" rect="701,9,182,56" color="#ffffff" drawable="radio_set_txtbk"/>
+				<Button id="Set_Btn_AmSensMinus" drawable="radio_set_sensminus" rect="637,9,50,56"/>
+				<Button id="Set_Btn_AmSensPlus" drawable="radio_set_sensplus" rect="890,9,50,56"/>
+			</View>			
+			<View id="Set_Group_FmSens" gravity="match_parent,76">			
+				<Text id="Set_Txt_FmSens" paraStr="Left" h="28" rect="49,4,588,74" text="radio_set_fmsens" color="#ffffff"/>
+				<Text id="Set_Txt_FmSensVal" h="28" rect="701,9,182,56" color="#ffffff" drawable="radio_set_txtbk"/>
+				<Button id="Set_Btn_FmSensMinus" drawable="radio_set_sensminus" rect="637,9,50,56"/>
+				<Button id="Set_Btn_FmSensPlus" drawable="radio_set_sensplus" rect="890,9,50,56"/>
+			</View>
+			<View id="Set_Group_HandSens" gravity="match_parent,76">
+				<Text id="Set_Txt_HandSensOnOff" paraStr="Left" h="28" rect="49,4,725,74" color="#ffffff"/>
+				<SwitchButton id="Set_Switch_HandSensOnOff" drawableExtra="radioset_rds_off,radioset_rds_on" rect="800,17,82,42"/>
+			</View>					
+			<View id="Set_Group_Rds" gravity="match_parent,76">
+				<Text id="Set_Txt_RdsOnOff" paraStr="Left" h="28" rect="49,4,725,74" color="#ffffff"/>
+				<SwitchButton id="Set_Switch_RdsOnOff" drawableExtra="radioset_rds_off,radioset_rds_on" rect="800,17,82,42"/>
+			</View>
+			<View id="Set_Group_Area" gravity="match_parent,120">
+				<Text id="Set_Txt_Area" paraStr="Left,TruncateAtMarQuee" h="28" rect="49,0,240,68" text="radio_set_area" color="#ffffff"/>
+				<CheckBox id="Set_CheckBox_AreaUSA" drawableExtra="radio_set_check,radio_set_check_p" h="28" rect="289,0,200,60" text="radio_set_area_usa" color="#ffffff"/>
+				<CheckBox id="Set_CheckBox_AreaLatin" drawableExtra="radio_set_check,radio_set_check_p" h="28" rect="539,0,200,60" text="radio_set_area_latin" color="#ffffff"/>
+				<CheckBox id="Set_CheckBox_AreaEurope" drawableExtra="radio_set_check,radio_set_check_p" h="28" rect="779,0,210,60" text="radio_set_area_europe" color="#ff0000"/>
+				<CheckBox id="Set_CheckBox_AreaOirt" drawableExtra="radio_set_check,radio_set_check_p" h="28" rect="289,60,210,60" text="radio_set_area_russa" color="#ffffff"/>
+				<CheckBox id="Set_CheckBox_AreaJapan" drawableExtra="radio_set_check,radio_set_check_p" h="28" rect="539,60,200,60" text="radio_set_area_japan" color="#ffffff"/>		    
+			</View>
+		</LinearLayout>
+	</Page>
+</Root>

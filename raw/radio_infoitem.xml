@@ -1,0 +1,12 @@
+<Root>
+	<Page id="Page_InfoItem" drawable="radio_itembk" size="652,56">
+		<View id="Item_Content">
+			<Text id="Item_Txt_Id" rect="0,3,60,48" h="18" color="#000000"/>
+			<Text id="Item_Txt_Freq" rect="67,3,82,48" h="18" color="#000000"/>
+			<Text id="Item_Txt_Unit" rect="157,3,72,48" h="18" color="#000000"/>
+			<Text id="Item_Txt_Name" rect="238,3,214,48" h="18" color="#000000"/>
+			<Button id="Item_Btn_Edit" rect="469,5,77,45" drawable="radio_item_edit"/>
+			<Button id="Item_Btn_Del" rect="563,5,77,45" drawable="radio_item_del"/>
+		</View>
+	</Page>
+</Root>

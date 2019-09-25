@@ -1,0 +1,9 @@
+<Root>
+	<Page id="Page_Menu2">
+		<Button id="Radio_Btn_Pty" rect="30,0,187,70" drawable="radio_menu_pty"/>
+		<Button id="Radio_Btn_Ta" rect="225,0,187,70" drawable="radio_menu_ta"/>
+		<Button id="Radio_Btn_Af" rect="419,0,187,70" drawable="radio_menu_af"/>
+		<Button id="Radio_Btn_Set" rect="614,0,187,70" drawable="radio_menu_set"/>
+		<Button id="Radio_Btn_Edit" rect="810,0,187,70" drawable="radio_menu_edit"/>
+	</Page>
+</Root>

@@ -1,0 +1,62 @@
+<Root>
+	<Page id="Page_Radio">
+	    <View rect="260,60,737,443" drawable="radio_body"/>
+	    <View rect="312,142,24,29" drawable="radio_image1"/>
+	    <View rect="312,208,24,29" drawable="radio_image2"/>
+	    <ImageView id="Radio_Logo" rect="760,100,180,180" drawable="radio_logo"/>
+		<FreqLineRuler id="Radio_FreqLineRuler" rect="328,383,596,110" recMark="45,0,500,0,40" h="25" para="3" color="#ffffff" drawableExtra="radio_ruler_mark,radio_ruler"/>
+		<Button id="Radio_Btn_FreqM" longclick="1" rect="286,365,70,70" drawable="radio_freqm"/>
+		<Button id="Radio_Btn_FreqP" longclick="1" rect="896,365,70,70" drawable="radio_freqp"/>
+		
+		
+		<Button id="Radio_Btn_Freq1" longclick="1" rect="29,64,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq1" rect="29,64,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name1" rect="29,64,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		<Button id="Radio_Btn_Freq2" longclick="1" rect="29,140,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq2" rect="29,140,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name2" rect="29,140,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		<Button id="Radio_Btn_Freq3" longclick="1" rect="29,215,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq3" rect="29,215,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name3" rect="29,215,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		<Button id="Radio_Btn_Freq4" longclick="1" rect="29,290,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq4" rect="29,290,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name4" rect="29,290,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		<Button id="Radio_Btn_Freq5" longclick="1" rect="29,365,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq5" rect="29,365,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name5" rect="29,365,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		<Button id="Radio_Btn_Freq6" longclick="1" rect="29,440,218,68" drawable="radio_ch">
+			<Text id="Radio_Txt_Freq6" rect="29,440,218,68" h="30" color="#ffffff,#ffffff"/>
+			<Text id="Radio_Txt_Name6" rect="29,440,218,68" h="30" color="#ffffff,#ffffff" paraStr="TruncateAtMarQuee"/>
+		</Button>
+		
+
+		
+		
+		<Text id="Radio_Txt_AfOn" rect="275,300,65,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_TaOn" rect="350,300,65,25" color="#ffffff" h="14" paraStr="Left"/>		
+		<Text id="Radio_Txt_Loc" rect="420,300,65,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_Scan" rect="490,300,70,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_St" rect="570,300,70,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_Ta" rect="650,300,70,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_Tp" rect="730,300,70,25" color="#ffffff" h="14" paraStr="Left"/>
+		<Text id="Radio_Txt_Pty" rect="810,300,130,25" color="#ffffff" h="14" paraStr="Left"/>
+		
+		
+		<Text id="Radio_Txt_Channel" rect="514,197,120,40" color="#ffffff" h="35"/>
+		<Text id="Radio_Txt_CurFreqName_All" rect="358,138,300,35" color="#ffffff" h="28" text="Playing Now" paraStr="Left,TruncateAtMarQuee"/>
+		<Text id="Radio_Txt_Scanning" rect="358,205,150,35" color="#ffffff" h="32" text="radio_scaning"/>
+		<FreqView id="Radio_FreqView"  longclick="1" rect="358,205,150,35" drawableExtra="radio_0,radio_1,radio_2,radio_3,radio_4,radio_5,radio_6,radio_7,radio_8,radio_9,radio_0point"  paraStr="Left"/>
+		<Button id="Radio_Btn_SetFreq" longclick="1" rect="358,205,150,35" />
+		<Text id="Radio_Txt_Rds" rect="310,250,200,40" color="#ffffff" h="20" paraStr="Left,TruncateAtMarQuee"/>
+		<Text id="Radio_Txt_Ps" rect="530,250,200,40" color="#ffffff" h="20" paraStr="Left"/>
+		
+		<ViewPage id="Radio_ViewPage" rect="0,518,1024,70" paraStr="Page_Menu1,Page_Menu2"/>
+		
+	    <ImageView id="v_actived" rect="0,0,1,1" drawable="zh_tip"/>
+	</Page>
+</Root>

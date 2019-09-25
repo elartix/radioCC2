@@ -1,0 +1,9 @@
+<Root>
+	<Page id="Page_Menu1">
+		<Button id="Radio_Btn_Band" rect="30,0,187,70" drawable="radio_menu_band"/>
+		<Button id="Radio_Btn_Scan" longclick="1" rect="225,0,187,70" drawable="radio_menu_scan"/>
+		<Button id="Radio_Btn_Loc" rect="419,0,187,70" drawable="radio_menu_loc"/>
+		<Button id="Radio_Btn_ST" rect="614,0,187,70" drawable="radio_menu_st"/>
+		<Button id="Radio_Btn_Save" rect="810,0,187,70" drawable="radio_menu_save"/>
+	</Page>
+</Root>

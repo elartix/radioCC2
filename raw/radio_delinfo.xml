@@ -1,0 +1,8 @@
+<Root>
+	<Page id="Page_DelInfo" drawable="radio_delinfo_bk" size="529,296">
+	    <Text text="radio_prompt" rect="16,7,496,41" h="28" color="#ffffff"/>
+		<Text id="DelInfo_Txt_Title" rect="16,95,496,77" text="radio_delinfo_title" h="28" color="#000000"/>
+		<Button id="DelInfo_Btn_Ok" rect="44,229,192,51" text="ok" h="28" color="#ffffff" drawable="radio_delinfo_btn"/>
+		<Button id="DelInfo_Btn_Cancel" rect="292,229,192,51" text="cancel" h="28" color="#ffffff" drawable="radio_delinfo_btn"/>
+	</Page>
+</Root>

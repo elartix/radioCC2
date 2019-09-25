@@ -1,0 +1,8 @@
+<Root>
+	<Page id="Page_SetFreqInfo" drawable="radio_bk_editinfo" size="529,296">
+		<Text rect="16,7,497,43" h="28" color="#ffffff" text="radio_set_freq"/>
+		<EditText id="SetFreq_Edit" rect="44,70,441,64"  h="35" color="#000000" drawable="radio_editinfo_name"/>
+		<Button id="SetFreq_Btn_Ok" rect="42,232,193,51" text="ok" h="28" color="#ffffff" drawable="radio_editinfo_btn"/>
+		<Button id="SetFreq_Btn_Cancel" rect="294,232,193,51" text="cancel" h="28" color="#ffffff" drawable="radio_editinfo_btn"/>
+	</Page>
+</Root>

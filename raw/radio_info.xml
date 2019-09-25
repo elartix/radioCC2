@@ -1,0 +1,13 @@
+<Root>
+	<Page id="Page_Info" drawable="radio_bk_info" size="657,402">
+		<Text id="Info_Txt_Title" rect="174,4,311,43" text="radio_info_title" h="32" color="#ffffff" paraStr="TruncateAtMarQuee"/>
+		<Button id="Info_Txt_City" rect="14,4,150,43" text="radio_info_city" h="28" color="#ffffff"/>
+		<Button id="Info_Btn_Del" rect="23,342,193,52" drawable="radio_info_btn"/>
+		<Button id="Info_Btn_Add" rect="235,342,193,52" drawable="radio_info_btn"/>
+		<Button id="Info_Btn_Cancel" rect="447,342,193,52" drawable="radio_info_btn"/>
+		<Text rect="23,342,193,52" text="radio_info_del" h="28" color="#ffffff" paraStr="TruncateAtMarQuee"/>
+		<Text rect="235,342,193,52" text="radio_info_add" h="28" color="#ffffff" paraStr="TruncateAtMarQuee"/>
+		<Text rect="447,342,193,52" text="cancel" h="28" color="#ffffff" paraStr="TruncateAtMarQuee"/>
+		<GridView id="Info_ListView" rect="2,56,652,280" paraStr="Page_InfoItem" h="5"/>
+	</Page>
+</Root>

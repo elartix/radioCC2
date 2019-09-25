@@ -1,0 +1,8 @@
+<project name="client">
+	<property name="app-name" value="Radio"/>
+	<property name="ver-name" value="1.0"/>
+	<property name="client-name" value="SYU"/>
+	<property name="client-folder" value="9853天之眼-俄罗斯"/>		
+	<property name="ui-id" value="1"/>
+	<property name="platform-name" value="C6"/>	
+</project>
