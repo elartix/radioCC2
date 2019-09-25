@@ -25566,12 +25566,6 @@
             "userRadios": []
         }, {
             "cityName": "Магнитогорск",
-            "freqLogo": "fl015",
-            "freqName": "Хит FM",
-            "freqNum": 10360,
-            "userRadios": []
-        }, {
-            "cityName": "Магнитогорск",
             "freqLogo": "fl011",
             "freqName": "Русское",
             "freqNum": 10420,
@@ -25583,12 +25577,18 @@
             "freqNum": 10470,
             "userRadios": []
         }, {
+			"cityName":"Магнитогорск",
+			"freqLogo":"fl032",
+			"freqName":"7 на семи холмах",
+			"freqNum":10520,
+			"userRadios":[]
+		},{
             "cityName": "Магнитогорск",
             "freqLogo": "fl010",
             "freqName": "Love",
             "freqNum": 10560,
             "userRadios": []
-        }, {
+		},{
             "cityName": "Магнитогорск",
             "freqLogo": "fl006",
             "freqName": "Европа Плюс",
@@ -25601,6 +25601,12 @@
             "freqNum": 10650,
             "userRadios": []
         }, {
+			"cityName":"Магнитогорск",
+			"freqLogo":"fl004",
+			"freqName":"Звезда",
+			"freqNum":10700,
+			"userRadios":[]
+		}, {
             "cityName": "Магнитогорск",
             "freqLogo": "fl095",
             "freqName": "Ретро FM",
