@@ -3729,7 +3729,7 @@
             "cityName": "Рязань",
             "freqLogo": "fl105",
             "freqName": "Маяк",
-            "freqNum": 9910,
+            "freqNum": 9930,
             "userRadios": []
         }, {
             "cityName": "Рязань",
@@ -3799,7 +3799,13 @@
             "userRadios": []
         }, {
             "cityName": "Рязань",
-            "freqLogo": "",
+            "freqLogo": "fl110",
+            "freqName": "Калина красная",
+            "freqNum": 10670,
+            "userRadios": []
+		}, {
+            "cityName": "Рязань",
+            "freqLogo": "fl111",
             "freqName": "ОК",
             "freqNum": 10720,
             "userRadios": []

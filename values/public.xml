@@ -4,6 +4,7 @@
     <public type="drawable" name="bk_hor" id="0x7f020001" />
     <public type="drawable" name="bk_radio" id="0x7f020002" />
     <public type="drawable" name="bk_set" id="0x7f020003" />
+    <public type="drawable" name="circle_progressbar_style" id="0x7f020004" />
     <public type="drawable" name="pl700" id="0x7f02019d" />
     <public type="drawable" name="pl701" id="0x7f02019f" />
     <public type="drawable" name="pl703" id="0x7f0201a0" />
@@ -31,6 +32,7 @@
     <public type="drawable" name="pl746" id="0x7f0201bb" />
     <public type="drawable" name="pl755" id="0x7f0201bc" />
     <public type="drawable" name="pl757" id="0x7f0201bd" />
+    <public type="drawable" name="copytoast_bk" id="0x7f020250" />
     <public type="drawable" name="en_tip" id="0x7f020251" />
     <public type="drawable" name="fl001" id="0x7f020252" />
     <public type="drawable" name="fl002" id="0x7f020253" />
@@ -241,14 +243,14 @@
     <public type="drawable" name="fl109" id="0x7f020326" />
 	<public type="drawable" name="pl737" id="0x7f020327" />
 	<public type="drawable" name="pl702" id="0x7f020328" />
-    <public type="drawable" name="circle_progressbar_style" id="0x7f020004" />
-    <public type="drawable" name="copytoast_bk" id="0x7f020250" />
     <public type="drawable" name="loading_dialog_bg" id="0x7f0202a4" />
     <public type="drawable" name="p_7" id="0x7f0202a5" />
     <public type="drawable" name="p_90seurodance" id="0x7f0202a6" />
     <public type="drawable" name="radio_icon" id="0x7f0202ca" />
     <public type="drawable" name="toast_bg" id="0x7f020311" />
     <public type="drawable" name="toast_bk" id="0x7f020312" />
+    <public type="drawable" name="fl111" id="0x7f020329" />
+	<public type="drawable" name="fl110" id="0x7f020330" />
     <public type="anim" name="bottom_in" id="0x7f030000" />
     <public type="anim" name="bottom_out" id="0x7f030001" />
     <public type="anim" name="delete_btn_hide" id="0x7f030002" />
