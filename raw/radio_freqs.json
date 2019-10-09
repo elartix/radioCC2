@@ -3729,7 +3729,7 @@
             "cityName": "Рязань",
             "freqLogo": "fl105",
             "freqName": "Маяк",
-            "freqNum": 9930,
+            "freqNum": 9910,
             "userRadios": []
         }, {
             "cityName": "Рязань",
@@ -18691,7 +18691,7 @@
             "userRadios": []
         }, {
             "cityName": "Москва",
-            "freqLogo": "fl93",
+            "freqLogo": "fl093",
             "freqName": "Comedy Radio",
             "freqNum": 10250,
             "userRadios": []
@@ -18733,7 +18733,7 @@
             "userRadios": []
         }, {
             "cityName": "Москва",
-            "freqLogo": "",
+            "freqLogo": "fl107",
             "freqName": "Capital FM",
             "freqNum": 10530,
             "userRadios": []
@@ -18757,7 +18757,7 @@
             "userRadios": []
         }, {
             "cityName": "Москва",
-            "freqLogo": "",
+            "freqLogo": "fl108",
             "freqName": "звук IZ.RU",
             "freqNum": 10700,
             "userRadios": []
