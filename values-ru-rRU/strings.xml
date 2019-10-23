@@ -14,7 +14,7 @@
     <string name="radio_info_editsuccess">Р/ст. обновлена успешно!</string>
     <string name="radio_info_nameused">Название станции уже используется!</string>
     <string name="radio_info_exist">Радиостанция уже сохранена, нельзя добавить повторно!</string>
-    <string name="radio_info_namenull">Название станции не может быть пустым, пожалуйста, введите!</string>
+    <string name="radio_info_namenull">Укажите название станции!</string>
     <string name="radio_delinfo_title">Удалить всю информацию станции?</string>
     <string name="radio_set">Сбросить настройки радио</string>
     <string name="radio_set_amsens">Чувст. АМ</string>
@@ -39,8 +39,8 @@
     <string name="edit_window_delete">Удалить</string>
     <string name="edit_window_save">Сохранить</string>
     <string name="edit_window_cancle">Отмена</string>
-    <string name="station_list_tilte">Информ. о р/ст.</string>
-    <string name="station_list_msg">Отсутствует информ. о р/ст</string>
+    <string name="station_list_tilte">Информация о р/ст.</string>
+    <string name="station_list_msg">Нет информации о р/ст</string>
     <string name="setting_init_title">Настр. по умолчанию</string>
     <string name="setting_rds_switch">Выкл. RDS</string>
     <string name="radio_set_area_usa2">США 2</string>

@@ -579,14 +579,11 @@
 
 .field public static final pl702:I = 0x7f020328
 
-.field public static final radio_freq_left:I = 0x7f020331
+.field public static final logo_auto:I = 0x7f020335
 
-.field public static final radio_freq_left_p:I = 0x7f020332
+.field public static final car_mark:I = 0x7f020336
 
-.field public static final radio_freq_right:I = 0x7f020333
-
-.field public static final radio_freq_right_p:I = 0x7f020334
-
+.field public static final car_mark_p:I = 0x7f020337
 
 # direct methods
 .method public constructor <init>()V
