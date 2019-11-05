@@ -77,4 +77,5 @@
     <string name="error_server_exception">Аномальный внутренний сервер</string>
     <string name="error_param">Параметр ошибки</string>
     <string name="str_kaolamenu">меню</string>
+    <string name="radio_scaning">Сканирование</string>
 </resources>
